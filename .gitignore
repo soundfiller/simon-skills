@@ -1,0 +1,9 @@
+# Personal data — never commit
+MEMORY.md
+USER.md
+memory/
+.openclaw/
+
+# OS files
+.DS_Store
+Thumbs.db
